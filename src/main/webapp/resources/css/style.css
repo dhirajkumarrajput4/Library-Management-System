@@ -1,0 +1,11 @@
+.primary-background{
+    background: #2196f3!important;
+}
+
+.banner-background{
+  clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 100%, 71% 96%, 31% 100%, 0 92%, 0% 30%);
+}
+.card:hover{
+	background: #c0c0c0!important;
+	cursor: pointer;
+}
